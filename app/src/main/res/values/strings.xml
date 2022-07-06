@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activities&amp;Fragments</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="blank_fragment_text">Blank Fragment</string>
+    <string name="button_text">Button</string>
+    <string name="second_activity_text">Second Activity</string>
+    <string name="first_activity_text">First Activity</string>
+</resources>
