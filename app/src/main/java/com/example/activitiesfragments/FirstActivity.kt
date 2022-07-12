@@ -10,7 +10,7 @@ class FirstActivity : AppCompatActivity() {
         setContentView(R.layout.activity_first)
 
         val fragmentTransaction = supportFragmentManager.beginTransaction()
-        fragmentTransaction.add(R.id.container, BlankFragment.newInstance())
+        fragmentTransaction.add(R.id.container, FirstFragment.newInstance())
         fragmentTransaction.commit()
 
         Log.d("LIVE_CYCLE", "onCreate")
